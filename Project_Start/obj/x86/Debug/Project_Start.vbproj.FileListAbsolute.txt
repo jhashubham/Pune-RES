@@ -1,0 +1,46 @@
+C:\Users\Shubham Jha\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Project_Start.resources
+C:\Users\Shubham Jha\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Shubham Jha\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\Project_Start.vbproj.GenerateResource.Cache
+C:\Users\Shubham Jha\Desktop\VB.NET\Project_Start\Project_Start\bin\Debug\Project_Start.exe
+C:\Users\Shubham Jha\Desktop\VB.NET\Project_Start\Project_Start\bin\Debug\Project_Start.pdb
+C:\Users\Shubham Jha\Desktop\VB.NET\Project_Start\Project_Start\bin\Debug\Project_Start.xml
+C:\Users\Shubham Jha\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\Project_Start.exe
+C:\Users\Shubham Jha\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\Project_Start.xml
+C:\Users\Shubham Jha\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\Project_Start.pdb
+C:\Users\Shubham Jha\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Enquiry.resources
+C:\Users\Shubham Jha\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Scedule.resources
+C:\Users\Shubham Jha\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Shubham Jha\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Live.resources
+C:\DESKTOP\VB.NET\Project_Start\Project_Start\obj\x86\Debug\Project_Start.exe
+C:\DESKTOP\VB.NET\Project_Start\Project_Start\obj\x86\Debug\Project_Start.xml
+C:\DESKTOP\VB.NET\Project_Start\Project_Start\obj\x86\Debug\Project_Start.pdb
+C:\DESKTOP\VB.NET\Project_Start\Project_Start\bin\Debug\Project_Start.exe
+C:\DESKTOP\VB.NET\Project_Start\Project_Start\bin\Debug\Project_Start.pdb
+C:\DESKTOP\VB.NET\Project_Start\Project_Start\bin\Debug\Project_Start.xml
+C:\DESKTOP\VB.NET\Project_Start\Project_Start\obj\x86\Debug\Project_Start.vbprojResolveAssemblyReference.cache
+C:\DESKTOP\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Project_Start.resources
+C:\DESKTOP\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Enquiry.resources
+C:\DESKTOP\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Scedule.resources
+C:\DESKTOP\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\DESKTOP\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Live.resources
+C:\DESKTOP\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\DESKTOP\VB.NET\Project_Start\Project_Start\obj\x86\Debug\Project_Start.vbproj.GenerateResource.Cache
+C:\Users\shubh\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\Project_Start.exe
+C:\Users\shubh\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\Project_Start.xml
+C:\Users\shubh\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\Project_Start.pdb
+C:\Users\shubh\Desktop\VB.NET\Project_Start\Project_Start\bin\Debug\Project_Start.exe
+C:\Users\shubh\Desktop\VB.NET\Project_Start\Project_Start\bin\Debug\Project_Start.pdb
+C:\Users\shubh\Desktop\VB.NET\Project_Start\Project_Start\bin\Debug\Project_Start.xml
+C:\Users\shubh\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\Project_Start.vbprojResolveAssemblyReference.cache
+C:\Users\shubh\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Project_Start.resources
+C:\Users\shubh\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Enquiry.resources
+C:\Users\shubh\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Scedule.resources
+C:\Users\shubh\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Live.resources
+C:\Users\shubh\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\shubh\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\Project_Start.vbproj.GenerateResource.Cache
+C:\Users\shubh\Desktop\VB.NET\Project_Start\Project_Start\bin\Debug\Project_Start.exe.config
+C:\Users\shubh\Desktop\VB.NET\Project_Start\Project_Start\obj\x86\Debug\WindowsApplication1.Information.resources
+C:\Users\shubh\Desktop\SEMESTER\SEM-2\VB.NET_Project\VB.NET PROJECT\Project_Start\bin\Debug\Project_Start.exe.config
+C:\Users\shubh\Desktop\SEMESTER\SEM-2\VB.NET_Project\VB.NET PROJECT\Project_Start\obj\x86\Debug\Project_Start.exe
+C:\Users\shubh\Desktop\SEMESTER\SEM-2\VB.NET_Project\VB.NET PROJECT\Project_Start\obj\x86\Debug\Project_Start.xml
+C:\Users\shubh\Desktop\SEMESTER\SEM-2\VB.NET_Project\VB.NET PROJECT\Project_Start\obj\x86\Debug\Project_Start.pdb
